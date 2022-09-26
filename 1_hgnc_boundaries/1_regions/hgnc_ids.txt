@@ -1,0 +1,3 @@
+hla_a HGNC:4931
+hla_b HGNC:4932
+hla_c HGNC:4933
