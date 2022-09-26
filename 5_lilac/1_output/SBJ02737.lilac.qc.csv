@@ -1,0 +1,2 @@
+Status,ScoreMargin,NextSolutionAlleles,MedianBaseQuality,HlaYAllele,DiscardedIndels,DiscardedIndelMaxFrags,DiscardedAlignmentFragments,A_LowCoverageBases,B_LowCoverageBases,C_LowCoverageBases,ATypes,BTypes,CTypes,TotalFragments,FittedFragments,UnmatchedFragments,UninformativeFragments,HlaYFragments,PercentUnique,PercentShared,PercentWildcard,UnusedAminoAcids,UnusedAminoAcidMaxFrags,UnusedHaplotypes,UnusedHaplotypeMaxFrags,SomaticVariantsMatched,SomaticVariantsUnmatched
+PASS,11.728,C*12:281,37,NONE,0,0,25,0,0,0,1,2,2,1702,1602,99,8,2,0.806,0.194,0.000,0,0,3,5,0,0
